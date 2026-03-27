@@ -19,9 +19,27 @@ Log in to your account.
 - Click **Open / OK**
 
 ---
+## Workflow Purpose
 
+- Download a file from Google Drive  
+- Extract data from an Excel file  
+- Loop through each record  
+- Check existing data in Google Sheets  
+- Process and transform data using JavaScript  
+- Upload the updated file back to Google Drive  
+---
 
+## Workflow Structure
 
+1. Trigger (Manual)
+2. Download File (Google Drive)
+3. Extract Data (XLSX)
+4. Loop Over Items
+5. Get Rows from Google Sheets
+6. Data Processing (JavaScript)
+7. Data Transformation (JavaScript)
+8. Final Formatting (JavaScript)
+9. Upload File (Google Drive)
 ---
 
 ## 💡 Notes
